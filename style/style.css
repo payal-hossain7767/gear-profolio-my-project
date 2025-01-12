@@ -140,7 +140,7 @@
 .Our-mission-is-to-create-community {
     margin: 0 30px 60px 30px;
     border-radius: 36px;
-    background: linear-gradient(rgb(203, 157, 240), rgb(240, 193, 225), rgb(203, 157, 240));
+    background: linear-gradient(rgb(175, 23, 63), rgba(204, 43, 83, 0.655), rgba(175, 23, 63, 0.35));
 }
 .Our-mission1{
     /* height: 660px; */
@@ -279,4 +279,38 @@
     padding: 100px;
     text-align: center;
     margin: 10px;
+}
+/* What-new */
+
+.What-new{
+    margin: 60px 200px;
+}
+.new{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.new h3{
+    font-size: 56px;
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* extraordinary */
+.extraordinary{
+
+}
+.img{
+     background-position: center; 
+     background-size: contain;
+     background-repeat: no-repeat; 
+     width: 100%;
+
+}
+.all-car-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
 }
